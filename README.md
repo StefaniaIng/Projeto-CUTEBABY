@@ -66,7 +66,7 @@ Para facilitar a verificação do funcionamento do sistema, utilize os recursos 
 
 * **Link 1: Áudio de Referência (Choro do Bebê)** - [Clique aqui para acessar o áudio utilizado nos testes](https://youtube.com/clip/UgkxLFucoGxB1lV9XipPq36UKc_hOz32ZrSx?si=lhl_1qlx60A6BcHX)
 
-* **Link 2: Vídeo Demonstrativo da Execução do Projeto** - [Assista à demonstração prática do CuteBaby na BitDogLab](https://youtu.be/R9idGykwxtk)
+* **Link 2: Vídeo Demonstrativo da Execução do Projeto** - [Assista à demonstração prática do CuteBaby na BitDogLab](https://youtube.com/shorts/L8Dgp1WPwdU)
    
 
 
